@@ -1,0 +1,23 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Juego de Simon Dice para r/argentinaprograma",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ale-M94/simon-dice.git"
+  },
+  "author": "Alejandro Milotich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ale-M94/simon-dice/issues"
+  },
+  "homepage": "https://github.com/Ale-M94/simon-dice#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
